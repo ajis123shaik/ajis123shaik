@@ -2,8 +2,8 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="mailto:govardhanaraokotla@gmail.com">Email</a> -
-  <a href="https://www.linkedin.com/in/govardhanarao-kotla/">LinkedIn</a>
+  <a href="mailto:sk.ajis795@gmail.com">Email</a> -
+  <a href="https://www.linkedin.com/in/shaikajis1255/">LinkedIn</a>
 </p> 
 
 ---
