@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm <a href="https://drive.google.com/file/d/1RqDob-547jMXvRSOkhKvNaakKQzTL2qU/view?usp=drive_link">GovardhanaraoKotla</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://drive.google.com/file/d/1RqDob-547jMXvRSOkhKvNaakKQzTL2qU/view?usp=drive_link">Ajis Shaik</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
@@ -12,7 +12,7 @@
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 🎓 Persuing Bachelors in Information Technology.<br>
-💻 Passionate about Java,Python and DataScience.<br>
+💻 Passionate about Python and DataScience.<br>
 🌱 Currently focusing on enhancing my skills in Data Analytics and Machine Learning.<br>
 📈 Intrested to working on Data Analytics and Visualization projects, turning data into captivating insights and impactful visuals.<br>
 
@@ -68,8 +68,8 @@
 <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Govardhanaraokotla&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Govardhanaraokotla&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=ajis123shaik&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ajis123shaik&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
  </div>
 
   <br/>
@@ -77,7 +77,7 @@
 
 <p align="center">
   
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govardhanaraokotla&layout=compact&theme=react" alt="Top Languages" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajis123shaik&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
 ---
@@ -97,7 +97,7 @@
 </details>
 ---
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Govardhanaraokotla&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=ajis123shaik&style=flat-square" alt="Profile Views">
 </p>
 
 ### Star ⭐ Some Of My Repositories for Future use 😉
